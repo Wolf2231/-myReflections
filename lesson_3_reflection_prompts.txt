@@ -1,1 +1,7 @@
 When would you want to create a remote repository rather than keeping all your local? 
+   It's always convenient to have a copy of your files online as a backup. Plus if it's a project,
+   it will be convenient to access and keep working on it from anywhere anytimme.
+   And since it's on GitHub as its made for collaborative projects, it will be an extremely useful
+   tool for working on projects that require multiple paties, plus it could be used with copanies 
+   and jobs that require collaborative projects. Really, their are many practices that remote repositories
+   could be extremely useful.
