@@ -23,4 +23,11 @@ What is the benefit of having a copy of the last known state of the remote store
    This way when we push or fetch data the only commit that will be transfered are the ones
    that are out of sync.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would
+be harder?
 
+   I would use a shared PC in school or work or maybe share a flashdrive. Maybe we would
+   use google drive to keep our files up to date. Either way I cant imagine that it could
+   be any better then using Git and GitHub.
+
+   
